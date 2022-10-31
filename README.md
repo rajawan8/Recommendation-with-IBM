@@ -11,6 +11,8 @@ No installations needed. Used libraries available via Anaconda package manager.
 # Libraries used:
 1.	Numpy
 2.	Pandas
+3.	matplotlib
+4.	nltk
 # Project Motivation
 This project provided an opportunity to get exposure to the generation of recommenders. Involves the expansion of the understanding of Rank based filtering, Collaborative filtering, and SVD models for recommendations.
 # Project Data
